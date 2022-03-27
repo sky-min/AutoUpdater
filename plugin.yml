@@ -1,0 +1,5 @@
+name: AutoUpdater
+main: skymin\autoupdater\AutoUpdater
+api: 4.0.0
+version: 1.0.0
+author: skymin
